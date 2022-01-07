@@ -92,7 +92,7 @@ svg {
 }
 
 .main-wrap {
-  background-image: url(/img/img-1.jpg);
+  background-image: url(responsive-navbar/img/img-1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
